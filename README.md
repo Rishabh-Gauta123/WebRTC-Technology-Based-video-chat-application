@@ -1,5 +1,16 @@
-# WebRTC-Technology-Based-video-chat-application
-This is a webRTC technology-based web application where we can make a video call with strangers and share our code to connect with known people at the video call at the same time, we can chat and recordour own conversation. We can also share our screen while video call.
+# WeMeet <br />
+Interaction platform using socket.io and webrtc<br />
 
 
-[Demo_Link](https://wemeet.onrender.com/)
+**npm install** <br />
+To install the node packages required to run the code on your local machine.<br />
+
+**npm start** <br />
+To run the app.js and start using the application <br />
+
+**Collaborators:** <br/>
+**Harsh Rawat** <br/>
+**Gaurav Agarwal** <br />
+**Amruth Mandappa T.S**<br />
+**Rishabh Gautam**<br />
+**Navneet Sangam** <br />
